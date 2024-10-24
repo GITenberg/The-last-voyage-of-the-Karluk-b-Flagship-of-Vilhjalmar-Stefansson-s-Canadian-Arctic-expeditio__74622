@@ -1,0 +1,32 @@
+_repo: The-last-voyage-of-the-Karluk-b-Flagship-of-Vilhjalmar-Stefansson-s-Canadian-Arctic-expeditio__74622
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Hale, Ralph T
+    gutenberg_agent_id: '57579'
+    url: http://www.gutenberg.org/2009/agents/57579
+  contributor:
+    agent_name: Bartlett, Robert A
+    gutenberg_agent_id: '57578'
+    url: http://www.gutenberg.org/2009/agents/57578
+description: ''
+gutenberg_issued: '2024-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74622'
+language: en
+pgterms:marc904: https://archive.org/details/lastvoyageofkarl00bart/
+pgterms:marc905: 20240606201506bartlett
+pgterms:marc906: '1916'
+pgterms:marc907: ca
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive
+publication_note: '  $aCanada :$bMcClelland, Goodchild & Stewart, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The last voyage of the Karluk : $b Flagship of Vilhjalmar Stefansson''s Canadian
+  Arctic expedition of 1913-16'
+url: http://www.gutenberg.org/ebooks/74622
