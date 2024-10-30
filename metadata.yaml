@@ -9,7 +9,12 @@ contributor:
     agent_name: Bartlett, Robert A
     gutenberg_agent_id: '57578'
     url: http://www.gutenberg.org/2009/agents/57578
+covers:
+- cover_type: archival
+  image_path: 74622-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74622#The-last-voyage-of-the-Karluk-b-Flagship-of-Vilhjalmar-Stefansson-s-Canadian-Arctic-expeditio_
 gutenberg_issued: '2024-10-22'
 gutenberg_type: Text
 identifiers:
